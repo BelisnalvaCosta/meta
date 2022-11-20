@@ -13,6 +13,7 @@ import com.devsuperior.devsmeta.entities.Sale;
 import com.devsuperior.devsmeta.repositories.SaleRepository;
 
 @Service
+@Bean
 public class SaleService {
 	
 	@Autowired
